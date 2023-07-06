@@ -1,0 +1,36 @@
+body {
+    background-position: center;
+    background-size: cover;
+
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+
+}
+
+.heading h3 {
+    display: inline;
+    font-size: 21px;
+}
+
+.heading button {
+    float: right;
+}
+.status_label{
+    background-color: white;
+}
+.footer{
+    background-color: grey;
+    color: white;
+    line-height: 2;
+    margin-bottom: 0px;
+    bottom: 0px;
+    width: 100%;
+}
+
+.modal-body{
+    text-align: center;
+}
